@@ -10,5 +10,8 @@
 - Go into invoiceApp/js/constants.js file and change BASE_PATH value
 (if necessary) to points at invoiceApi
 
+## Run
+To run the application, on your browser type http://localhost/invoiceApp/
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
